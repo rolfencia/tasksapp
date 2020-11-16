@@ -1,0 +1,24 @@
+# Aplicación de tareas
+
+## Estructura de datos
+- Título
+- Descripción
+- Estado
+    - Pendiente
+    - En progreso
+    - Terminado
+
+## Funcionalidad
+- Crear - DONE
+- Listar - DONE
+    - Todas
+    - Por estado
+- Ver detalle - DONE
+- Cambiar estado - DONE
+- Editar / modificar - DONE
+- Borrar  - DONE
+
+## Tecnología
+
+- Node
+- JSON
