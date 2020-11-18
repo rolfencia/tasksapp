@@ -1,2 +1,2 @@
 # tasksapp
-This is my first project in node
+This is my first project with node
